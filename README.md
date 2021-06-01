@@ -1,3 +1,5 @@
+(This packages was forked from a person who fixed null safety issue because original developer has been inactive)
+
 # flutter_launcher_name
 
 A command-line tool which simplifies the task of updating your Flutter app's launcher name.
