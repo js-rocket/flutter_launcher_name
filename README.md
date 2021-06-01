@@ -1,4 +1,4 @@
-(This packages was forked from a person who fixed null safety issue because original developer has been inactive)
+(This package was forked from a person who fixed null safety issue because original developer has been inactive)
 
 # flutter_launcher_name
 
